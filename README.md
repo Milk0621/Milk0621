@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=firebase&logoColor=white"/>
+
 <!--
 **Milk0621/Milk0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
