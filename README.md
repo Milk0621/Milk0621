@@ -16,17 +16,15 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=BongJune's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
 
 <br>
-<div align='center'>💻깊고 넓게 공부하는 개발자 김봉준입니다.</div>
+<div align='center'>💻디자인에서 출발해, 문제 해결로 확장해나가는 웹 개발자 김지선입니다..</div>
 <br>
-<div align='center'> ✉Email : <a href="mailto:nocdu112@naver.com">nocdu112@naver.com</a></div>
-<div align='center'> 🔗Notion : <a href="https://abounding-clownfish-456.notion.site/9589212dfdac4f8ea36e97dcd79f44d3">노션링크</a></div>
-<div align='center'> 🌐Blog : <a href="https://nocdu112.tistory.com/">블로그</a></div>
+<div align='center'> ✉Email : <a href="mailto:wltjs5360@naver.com">wltjs5360@naver.com</a></div>
+<div align='center'> 🔗Notion : <a href="https://www.notion.so/1ee6731d268a81988510e9b04de46ea1?source=copy_link">노션링크</a></div>
 <br>
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbongjune&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbongjune&layout=compact)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbongjune&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbongjune&layout=compact) -->
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
