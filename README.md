@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img href="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   
 </p>
 <br>
