@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=JiSeon's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
 
 <br>
-<div align='center'>💻디자인에서 출발해, 문제 해결로 확장해나가는 개발자 김지선입니다.</div>
+<div align='center'>💻디자인에서 출발해, 문제 해결로 확장해나가는 개발자 김지선입니다.
+프로젝트 뿐만아니라 하루하루 공부하고 있는 내용들을 기록하고 있습니다.</div>
 <br>
 <div align='center'> ✉Email : <a href="mailto:wltjs5360@naver.com">wltjs5360@naver.com</a></div>
 <div align='center'> 🔗Notion : <a href="https://www.notion.so/1ee6731d268a81988510e9b04de46ea1?source=copy_link">노션링크</a></div>
